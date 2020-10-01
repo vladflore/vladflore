@@ -2,13 +2,13 @@
 
 
 
-- 🔭 I’m currently working on ... my [Blog](https://vladflore.tech/), various JavaScript/HTML/CSS projects(see below), various JetBrains Academy projects(see pinned repositories) and another midsize Java/Spring/Angular web app (see Blog)
+- 🔭 I’m currently working on ... my [Blog](https://vladflore.tech/), various JavaScript/HTML/CSS projects(see some of them below), various JetBrains Academy projects(see pinned repositories) and another midsize Java/Spring/Angular web app (see Blog)
 - - [Game Of Life](https://vladflore.github.io/game-of-life/)
 - - [Light Dark Mode](https://vladflore.github.io/light-dark-mode/)
 - - [Picture in Picture](https://vladflore.github.io/picture-in-picture/)
 - - [Infinity Scroll](https://vladflore.github.io/infinity-scroll/)
 - - [Quote Generator](https://vladflore.github.io/quote-generator/)
-- 🌱 I’m currently learning [Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7), [Algorithms & Data Structures](https://www.coursera.org/learn/algorithms-part1), [Julia](https://computationalthinking.mit.edu/Fall20/), JavaScript, Java 11+, Spring(Boot) and pretty much any other topic I find interesting...yeah, it's a lot, but it's fun too!
+- 🌱 I’m currently learning [Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7), [Algorithms & Data Structures](https://www.coursera.org/learn/algorithms-part1), [Julia](https://computationalthinking.mit.edu/Fall20/) and also leveling up my JavaScript, Java 11+ and Spring(Boot) knowledge.
 - 👯 I’m looking to collaborate on interesting projects related to Software Engineering and Web Development with Java, Spring, Angular and co.
 - 🤔 I’m looking for help with ... nothing in particular
 - 💬 Ask me about Software Development / Engineering in general and Java, Spring in particular
