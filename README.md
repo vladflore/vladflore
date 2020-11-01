@@ -8,7 +8,7 @@
 - - [Picture in Picture](https://vladflore.github.io/picture-in-picture/)
 - - [Infinity Scroll](https://vladflore.github.io/infinity-scroll/)
 - - [Quote Generator](https://vladflore.github.io/quote-generator/)
-- 🌱 I’m currently learning/brushing up on Python, Algorithms & Data Structures, AWS, [Julia](https://julialang.org/), JavaScript, Java 11+ and Spring(Boot), Design Patterns
+- 🌱 I’m currently learning/brushing up on Python, Algorithms & Data Structures, AWS, [Julia](https://julialang.org/), JavaScript, Java 11+, Spring(Boot), Design Patterns
 - 👯 I’m looking to collaborate on interesting projects related to Software Engineering and Web Development with Java, Spring, Angular and co.
 - 🤔 I’m looking for help with ... nothing in particular
 - 💬 Ask me about Software Development / Engineering in general and Java, Spring in particular
