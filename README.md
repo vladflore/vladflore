@@ -7,12 +7,12 @@
 - - a JetBrains Academy project (see pinned repositories for other completed projects)
 - - a midsize Java/Spring/Angular web app (see Blog)
 
-Some of the JS/HTML/CSS projects:
-- [Game Of Life](https://vladflore.github.io/game-of-life/)
-- [Light Dark Mode](https://vladflore.github.io/light-dark-mode/)
-- [Picture in Picture](https://vladflore.github.io/picture-in-picture/)
-- [Infinity Scroll](https://vladflore.github.io/infinity-scroll/)
-- [Quote Generator](https://vladflore.github.io/quote-generator/)
+- Some of the JS/HTML/CSS projects:
+- - [Game Of Life](https://vladflore.github.io/game-of-life/)
+- - [Light Dark Mode](https://vladflore.github.io/light-dark-mode/)
+- - [Picture in Picture](https://vladflore.github.io/picture-in-picture/)
+- - [Infinity Scroll](https://vladflore.github.io/infinity-scroll/)
+- - [Quote Generator](https://vladflore.github.io/quote-generator/)
 
 - 🌱 I’m currently learning/brushing up on Algorithms & Data Structures, Cloud (AWS), [Julia](https://julialang.org/), JavaScript, Java 11+, Spring(Boot), Design Patterns; additionally I enjoy wrestling with coding challenges, and because Advent is coming, [AoC](https://adventofcode.com/) seems like a good challenge
 
