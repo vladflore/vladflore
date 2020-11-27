@@ -3,9 +3,9 @@
 
 
 - 🔭 I’m currently working on ...
-- - my [Blog](https://vladflore.tech/)
-- - a JetBrains Academy project (see pinned repositories for other completed projects)
-- - a midsize Java/Spring/Angular web app (see Blog)
+-- my [Blog](https://vladflore.tech/)
+-- a JetBrains Academy project (see pinned repositories for other completed projects)
+-- a midsize Java/Spring/Angular web app (see Blog)
 
 - Some of the JS/HTML/CSS projects:
 - - [Game Of Life](https://vladflore.github.io/game-of-life/)
