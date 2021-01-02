@@ -2,10 +2,10 @@
 
 - 🔭 I’m currently working on ...
   - my [Blog](https://vladflore.tech/)
-  - a JetBrains Academy project (see pinned repositories for other completed projects)
+  - Udacity Cloud Developer Nanodegree
   - a midsize Java/Spring/Angular web app (see Blog)
 
-- Some of the JS/HTML/CSS projects:
+- Some JS/HTML/CSS projects to brush up on frontend development:
   - [Game Of Life](https://vladflore.github.io/game-of-life/)
   - [Light Dark Mode](https://vladflore.github.io/light-dark-mode/)
   - [Picture in Picture](https://vladflore.github.io/picture-in-picture/)
@@ -21,7 +21,7 @@
   - JavaScript
   - Node.js
   - [Julia](https://julialang.org/)
-  - additionally I enjoy wrestling with coding challenges, and because Advent is coming, [AoC](https://adventofcode.com/) seems like a good challenge!
+  - additionally I enjoy wrestling with coding challenges
 
 - 👯 I’m looking to collaborate on interesting projects related to Software Engineering and Web Development with Java, Spring, Angular and co.
 
