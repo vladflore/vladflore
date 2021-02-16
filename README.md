@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-  - my [Blog](https://vladflore.tech/)
   - Udacity Cloud Developer Nanodegree
+  - a Manning Live Project
+  - the materials from [Introduction to Computational Thinking](https://computationalthinking.mit.edu/Spring21/)
+  - my [Blog](https://vladflore.tech/)
   - a midsize Java/Spring/Angular web app (see Blog)
 
 - Some JS/HTML/CSS projects to brush up on frontend development:
@@ -18,10 +20,8 @@
   - Java 11+
   - Design Patterns
   - Algorithms & Data Structures
-  - JavaScript
   - Node.js
   - [Julia](https://julialang.org/)
-  - additionally I enjoy wrestling with coding challenges
 
 - 👯 I’m looking to collaborate on interesting projects related to Software Engineering and Web Development with Java, Spring, Angular and co.
 
