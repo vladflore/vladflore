@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently keeping myself busy with...
   - Udacity Cloud Developer Nanodegree
   - a Manning Live Project
-  - the materials from [Introduction to Computational Thinking](https://computationalthinking.mit.edu/Spring21/)
   - my [Blog](https://vladflore.tech/)
   - a midsize Java/Spring/Angular web app (see Blog)
+  - PRs for an [OS project](https://github.com/fonsp/Pluto.jl) written in Julia, JavaScript, HTML and CSS
 
 - Some JS/HTML/CSS projects to brush up on frontend development:
   - [Game Of Life](https://vladflore.github.io/game-of-life/)
@@ -19,7 +19,6 @@
   - Spring(Boot)
   - Java 11+
   - Design Patterns
-  - Algorithms & Data Structures
   - Node.js
   - [Julia](https://julialang.org/)
 
