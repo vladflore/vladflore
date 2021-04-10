@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently keeping myself busy with...
+  - a Job, which by the way, leaves little time for all the other points...
   - Udacity Cloud Developer Nanodegree
   - a Manning Live Project
   - my [Blog](https://vladflore.tech/)
