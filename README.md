@@ -8,26 +8,26 @@
   - a midsize Java/Spring/Angular web app (see Blog)
   - PRs for an [OS project](https://github.com/fonsp/Pluto.jl) written in Julia, JavaScript, HTML and CSS
 
-- Some JS/HTML/CSS projects to brush up on frontend development:
+- 🌱 I’m currently learning/brushing up on:
+  - Kotlin
+  - Cloud (AWS)
+  - Spring(Boot)
+  - Java 11+
+  - Clean Code
+  - [Julia](https://julialang.org/)
+
+Besides all that, I like dipping my toes into all sorts of Computer Science / Software Engineering related subjects: computational thinking, competitive-ish programming, data science, machine learning, documenting projects, CI/CD and co.
+
+- Some JS/HTML/CSS projects to brush up on "vanilla" frontend development:
   - [Game Of Life](https://vladflore.github.io/game-of-life/)
   - [Light Dark Mode](https://vladflore.github.io/light-dark-mode/)
   - [Picture in Picture](https://vladflore.github.io/picture-in-picture/)
   - [Infinity Scroll](https://vladflore.github.io/infinity-scroll/)
   - [Quote Generator](https://vladflore.github.io/quote-generator/)
 
-- 🌱 I’m currently learning/brushing up on:
-  - Cloud (AWS)
-  - Spring(Boot)
-  - Java 11+
-  - Design Patterns
-  - Node.js
-  - [Julia](https://julialang.org/)
-
-- 👯 I’m looking to collaborate on interesting projects related to Software Engineering and Web Development with Java, Spring, Angular and co.
+- 👯 I’m looking to collaborate on interesting projects related to Software Engineering, in general and Web Development, in particular
 
 - 🤔 I’m looking for help with ... nothing in particular
-
-- 💬 Ask me about Software Development / Engineering in general and Java, Spring in particular
 
 - 📫 How to reach me: [Twitter](https://twitter.com/vlad_flore), [Gmail](mailto:flore.vlad@gmail.com)
 
