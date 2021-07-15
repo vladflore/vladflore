@@ -3,7 +3,7 @@
 - 🔭 I’m currently keeping myself busy with...
   - a Job, which by the way, leaves little time for all the other points...
   - Udacity Cloud Developer Nanodegree...two more projects and I can absolve it
-  - AWS Machine Learning Foundations as a prereq. for a Nano Degreee Program
+  - AWS Machine Learning Foundations as a prereq. for a Nano Degree Program
   - a Manning Live Project
   - my [Blog](https://vladflore.tech/)
   - a midsize Java/Spring/Angular web app (see Blog)
