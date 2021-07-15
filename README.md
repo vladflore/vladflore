@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently keeping myself busy with...
   - a Job, which by the way, leaves little time for all the other points...
-  - Udacity Cloud Developer Nanodegree
+  - Udacity Cloud Developer Nanodegree...two more projects and I can absolve it
+  - AWS Machine Learning Foundations as a prereq. for a Nano Degreee Program
   - a Manning Live Project
   - my [Blog](https://vladflore.tech/)
   - a midsize Java/Spring/Angular web app (see Blog)
@@ -10,10 +11,12 @@
 
 - 🌱 I’m currently learning/brushing up on:
   - Kotlin
-  - Cloud (AWS)
-  - Spring(Boot)
   - Java 11+
+  - Cloud (AWS)
+  - Python
+  - ML
   - Clean Code
+  - Spring(Boot)
   - [Julia](https://julialang.org/)
 
 Besides all that, I like dipping my toes into all sorts of Computer Science / Software Engineering related subjects: computational thinking, competitive-ish programming, data science, machine learning, documenting projects, CI/CD and co.
