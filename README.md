@@ -4,6 +4,7 @@
   - a Job, which by the way, leaves little time for all the other points...
   - Udacity Cloud Developer Nanodegree...two more projects and I can absolve it
   - AWS Machine Learning Foundations as a prereq. for a Nano Degree Program
+  - [animating Git](https://github.com/vladflore/git-animated)
   - a Manning Live Project
   - my [Blog](https://vladflore.tech/)
   - a midsize Java/Spring/Angular web app (see Blog)
