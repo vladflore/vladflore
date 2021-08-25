@@ -5,20 +5,18 @@
   - Udacity Cloud Developer Nanodegree...two more projects and I can absolve it
   - AWS Machine Learning Foundations as a prereq. for a Nano Degree Program
   - [animating Git](https://github.com/vladflore/git-animated)
-  - a Manning Live Project
   - my [Blog](https://vladflore.tech/)
+  - a Manning Live Project
   - a midsize Java/Spring/Angular web app (see Blog)
   - PRs for an [OS project](https://github.com/fonsp/Pluto.jl) written in Julia, JavaScript, HTML and CSS
 
 - 🌱 I’m currently learning/brushing up on:
   - Kotlin
-  - Java 11+
+  - Java 11/17
+  - Spring (Boot)
   - Cloud (AWS)
-  - Python
-  - ML
   - Clean Code
-  - Spring(Boot)
-  - [Julia](https://julialang.org/)
+  - how to architect different types of JVM based applications
 
 Besides all that, I like dipping my toes into all sorts of Computer Science / Software Engineering related subjects: computational thinking, competitive-ish programming, data science, machine learning, documenting projects, CI/CD and co.
 
