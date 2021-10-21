@@ -2,10 +2,11 @@
 
 - 🔭 I’m currently keeping myself busy with...
   - a Job, which by the way, leaves little time for all the other points...
-  - Udacity Cloud Developer Nanodegree...two more projects and I can absolve it
-  - AWS Machine Learning Foundations as a prereq. for a Nano Degree Program
+  - Udacity Cloud Developer Nanodegree...one more projects and I can absolve it
   - [animating Git](https://github.com/vladflore/git-animated)
   - my [Blog](https://vladflore.tech/)
+
+As much as I would like to, these are currently put on hold:
   - a Manning Live Project
   - a midsize Java/Spring/Angular web app (see Blog)
   - PRs for an [OS project](https://github.com/fonsp/Pluto.jl) written in Julia, JavaScript, HTML and CSS
