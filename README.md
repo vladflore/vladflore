@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently keeping myself busy with...
   - a Job, which by the way, leaves little time for all the other points...
-  - Udacity Cloud Developer Nanodegree...one more projects and I can absolve it
+  - MITx 6.00.2x Introduction to Computational Thinking and Data Science
+  - JetBrains Academy Kotlin track
   - [animating Git](https://github.com/vladflore/git-animated)
   - my [Blog](https://vladflore.tech/)
 
@@ -19,16 +20,16 @@ As much as I would like to, these are currently put on hold:
   - Clean Code
   - how to architect different types of JVM based applications
 
-Besides all that, I like dipping my toes into all sorts of Computer Science / Software Engineering related subjects: computational thinking, competitive-ish programming, data science, machine learning, documenting projects, CI/CD and co.
+Besides all that, I like dipping my toes into all sorts of Computer Science / Software Engineering related subjects: computational thinking, competitive-ish programming, data science, machine learning, documenting projects, CI/CD and co. Lately added Maths to this list too.
 
-- Some JS/HTML/CSS projects to brush up on "vanilla" frontend development:
+<!-- - Some JS/HTML/CSS projects to brush up on "vanilla" frontend development:
   - [Game Of Life](https://vladflore.github.io/game-of-life/)
   - [Light Dark Mode](https://vladflore.github.io/light-dark-mode/)
   - [Picture in Picture](https://vladflore.github.io/picture-in-picture/)
   - [Infinity Scroll](https://vladflore.github.io/infinity-scroll/)
-  - [Quote Generator](https://vladflore.github.io/quote-generator/)
+  - [Quote Generator](https://vladflore.github.io/quote-generator/) -->
 
-- 👯 I’m looking to collaborate on interesting projects related to Software Engineering, in general and Web Development, in particular
+- 👯 I’m looking to collaborate on interesting projects related to Software Engineering
 
 - 🤔 I’m looking for help with ... nothing in particular
 
