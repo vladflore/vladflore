@@ -3,22 +3,24 @@
 - 🔭 I’m currently keeping myself busy with...
   - a Job, which by the way, leaves little time for all the other points...
   - MITx 6.00.2x Introduction to Computational Thinking and Data Science
+<!--
+  As much as I would like to, these are currently put on hold:
   - JetBrains Academy Kotlin track
   - [animating Git](https://github.com/vladflore/git-animated)
   - my [Blog](https://vladflore.tech/)
-
-As much as I would like to, these are currently put on hold:
   - a Manning Live Project
   - a midsize Java/Spring/Angular web app (see Blog)
   - PRs for an [OS project](https://github.com/fonsp/Pluto.jl) written in Julia, JavaScript, HTML and CSS
-
+-->
 - 🌱 I’m currently learning/brushing up on:
   - Kotlin
   - Java 11/17
   - Spring (Boot)
+  <!--
   - Cloud (AWS)
+  -->
   - Clean Code
-  - how to architect different types of JVM based applications
+  - System Design
 
 Besides all that, I like dipping my toes into all sorts of Computer Science / Software Engineering related subjects: computational thinking, competitive-ish programming, data science, machine learning, documenting projects, CI/CD and co. Lately added Maths to this list too.
 
