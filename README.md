@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently keeping myself busy with...
-  - a Job, which by the way, leaves little time for all the other points...
-  - ...
+  - a Job, which by the way, leaves little time for something else...
+  - Intro to ML with Tensor Flow - Scholarship Program Nanodegree Program
+  - JetBrains Academy Kotlin track
 <!--
   As much as I would like to, these are currently put on hold:
-  - JetBrains Academy Kotlin track
   - [animating Git](https://github.com/vladflore/git-animated)
   - my [Blog](https://vladflore.tech/)
   - a Manning Live Project
@@ -13,13 +13,15 @@
   - PRs for an [OS project](https://github.com/fonsp/Pluto.jl) written in Julia, JavaScript, HTML and CSS
 -->
 - 🌱 I’m currently learning/brushing up on:
-  - Kotlin
-  - Java 11/17
+  - Algorithms and Data Structures
+  - Java 17
   - Spring (Boot)
   <!--
   - Cloud (AWS)
   -->
+  <!--
   - Clean Code
+  -->
   - System Design
 
 Besides all that, I like dipping my toes into all sorts of Computer Science / Software Engineering related subjects: computational thinking, competitive-ish programming, data science, machine learning, documenting projects, CI/CD and co. Lately added Maths to this list too.
