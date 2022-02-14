@@ -3,8 +3,8 @@
 - 🔭 I’m currently keeping myself busy with...
   - a Job, which by the way, leaves little time for something else...
   - Intro to ML with Tensor Flow - Scholarship Program Nanodegree Program
-  - JetBrains Academy Kotlin track
 <!--
+  - JetBrains Academy Kotlin track
   As much as I would like to, these are currently put on hold:
   - [animating Git](https://github.com/vladflore/git-animated)
   - my [Blog](https://vladflore.tech/)
